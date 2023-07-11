@@ -1,0 +1,1 @@
+(()=>{"use strict";let e=document.getElementById("titleInput");console.log(e.value)})();
